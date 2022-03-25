@@ -1,0 +1,5 @@
+Tools yang digunakan :
+Xampp
+Vscode/Sublime text
+heidisql/Navicat
+Code Igniter
