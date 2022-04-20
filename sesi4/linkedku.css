@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    font-family: arial;
+    text-align: center;
+}
+header{
+    background-color: coral;
+    color: black;
+    height: 100px;
+    padding: 50px;
+    text-align: center;
+}
